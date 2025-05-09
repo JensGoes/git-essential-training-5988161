@@ -20,7 +20,7 @@
   "workbench.colorTheme": "Default Light Modern",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
-  // "files.exclude": {
-  //   "**/.git": false
-  // }
+  "files.exclude": {
+    "**/.git": false
+  }
 }
